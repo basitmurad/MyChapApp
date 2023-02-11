@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item android:id="@+id/search"
+    android:icon="@drawable/ic_baseline_search_24"
+    android:title="search"
+    app:showAsAction="always"
+
+
+    />
+    <item android:id="@+id/Profile"
+        android:title="profile"
+        android:icon="@drawable/profile"
+
+        />
+    <item android:id="@+id/setProfile"
+        android:title="setup profile"
+        android:icon="@drawable/profile"
+
+        />
+    <item android:title="Group"
+        android:id="@+id/group"
+        android:icon="@drawable/ic_baseline_group_24"
+       />
+
+    <item android:title="Setting"
+        android:id="@+id/setting"
+        />
+    <item android:title="Invite"
+        android:id="@+id/invite"
+        android:icon="@drawable/invite"
+        />
+
+</menu>

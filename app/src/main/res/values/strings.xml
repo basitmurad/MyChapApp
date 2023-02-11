@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="default_notification_channel_id">Default</string>
+    <string name="msg_token_fmt" />
+</resources>
